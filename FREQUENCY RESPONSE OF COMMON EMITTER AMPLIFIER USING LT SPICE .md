@@ -28,11 +28,11 @@
 ![WhatsApp Image 2026-04-02 at 10 49 10 AM](https://github.com/user-attachments/assets/7cbef9a9-4a5d-4ff0-b651-33931a66bc10)
 ## Graph
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/1d962ba8-de78-4bba-96b7-04357870d784" />
-
+<img width="1600" height="308" alt="image" src="https://github.com/user-attachments/assets/f432fd06-78c2-4412-8dc9-e8ef61770f38" />
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 2dB**
 
-**BANDWIDTH =**
+**BANDWIDTH = 40MHz**
